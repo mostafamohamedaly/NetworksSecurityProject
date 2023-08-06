@@ -1,7 +1,7 @@
 # Network and Computer Security Project
 This is the report for the Computer and Network Security. The code consits of 2 files, the client code ```client.py``` and server code ```server.py```.
 
-## Team _El Joker_
+## Team
 - Youssef Ahmed Abdelghafour 
   - ID: 46-2459
   - Tutorial: T-15
